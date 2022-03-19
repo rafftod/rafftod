@@ -13,5 +13,4 @@ Currently,
 
 [![img_contact](https://github.com/MikeCodeur/MikeCodeur/blob/main/img/linkedin-light.svg)](https://www.linkedin.com/in/raffaele-todesco/#gh-light-mode-only)
 [![img_contact](https://github.com/MikeCodeur/MikeCodeur/blob/main/img/linkedin-dark.svg)](https://www.linkedin.com/in/raffaele-todesco/#gh-dark-mode-only)
-
 [![img_contact](https://i.imgur.com/uBVEl3h.png)](mailto:raffaele.b.todesco@gmail.com)
