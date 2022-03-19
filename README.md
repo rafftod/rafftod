@@ -9,9 +9,13 @@ Currently,
 - 🌱 I'm still learning a lot by myself about development and data science
 - 🎹 I also produce music as an amateur on the side
 
-### Connect with me:
+### Connect with me :
 
 [![img_contact](https://github.com/MikeCodeur/MikeCodeur/blob/main/img/linkedin-light.svg)](https://www.linkedin.com/in/raffaele-todesco/#gh-light-mode-only)
 [![img_contact](https://github.com/MikeCodeur/MikeCodeur/blob/main/img/linkedin-dark.svg)](https://www.linkedin.com/in/raffaele-todesco/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![img_contact](https://i.imgur.com/uBVEl3h.png)](mailto:raffaele.b.todesco@gmail.com)
+
+### Languages and Tools :
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][youtubeplaylist]
