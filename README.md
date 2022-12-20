@@ -4,8 +4,8 @@ I'm Raffaele, living in Brussels, Belgium. I'm a computer science engineer that 
 
 Currently,
 
-- 🧑‍🎓 I'm still a last year Master Student at the Université Libre de Bruxelles, Brussels, Belgium
-- 🤖 I'm working on swarm robotics implementations for my master thesis
+- 🧑‍🎓 I recently graduated from a Master Degree in Computer Science and Engineering at the Université Libre de Bruxelles, Brussels, Belgium
+- 👨‍⚖️ I'm currently conducting research in law & AI, as a Software Engineer / Data Engineer / Data Scientist
 - 🌱 I'm still learning a lot by myself about development and data science
 - 🎹 I also produce music as an amateur on the side
 
